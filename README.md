@@ -1,9 +1,8 @@
-### COP3503 - Number Statistics Project 
+### Shark Species Project Website
 
-This Number Statistics Project was the first project of my Object Oriented Programming class at the University of North Florida. It shows an understanding of basic programming structures along with how to use methods and built-in Java classes
+This is a Website that I created for my Shark Species project for my Marine Science class in High School
 
-![Zain Malik (2)](https://github.com/zain0329/COP3503-Number-Statistics/assets/66034863/04f1f488-ed04-46ca-aabb-59e93e34e8aa)
-
+![Zain Malik (8)](https://github.com/zain0329/Shark-Website/assets/66034863/7e7780e7-1b61-4479-85d3-d59251f33586)
 
 
 
